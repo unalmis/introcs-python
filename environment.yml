@@ -1,0 +1,8 @@
+name: introcs-env
+dependencies:
+  - numpy
+  - setuptools
+  - tk
+  - pip
+  - pip:
+    - pygame
