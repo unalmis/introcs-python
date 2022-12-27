@@ -20,7 +20,7 @@ If needed, install [miniconda](https://conda.io/projects/conda/en/latest/user-gu
 
 ```sh
 git clone https://github.com/unalmis/introcs-python.git
-cd introcs-python
+cd introcs_python
 conda env create --file environment.yml
 conda activate introcs-env
 cd introcs-1.1
