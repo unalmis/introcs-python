@@ -23,7 +23,4 @@ git clone https://github.com/unalmis/introcs-python.git
 cd introcs_python
 conda env create --file environment.yml
 conda activate introcs-env
-cd introcs-1.1
-python setup.py install
-python setup.py clean --all
 ```
